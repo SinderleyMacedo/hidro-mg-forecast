@@ -1,0 +1,21 @@
+# hidro-mg-forecast
+
+Previsão de vazão com MLflow e API.
+
+Parte do portfólio Hidro MG (engenharia de dados e IA sobre dados públicos de água de Minas Gerais e IBGE).
+
+## Problema
+`<descreva o problema que este repositório resolve>`
+
+## Arquitetura
+`<diagrama>`
+
+## Como rodar
+```bash
+make setup && make check
+```
+
+## Resultados
+`<métricas e capturas>`
+
+Janela do cronograma: 21/06/2027 a 11/07/2027. Ver `CLAUDE.md` para regras e convenções.
